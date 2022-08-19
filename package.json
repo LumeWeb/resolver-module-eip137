@@ -1,0 +1,12 @@
+{
+    "name": "@lumeweb/resolver-module-eip137",
+    "version": "0.1.0",
+    "main": "dist/index.js",
+    "type": "module",
+    "dependencies": {
+        "@lumeweb/resolver-common": "github:LumeWeb/resolver-common",
+        "@lumeweb/resolver-module-eip137-common": "https://github.com/LumeWeb/resolver-module-eip137-common.git",
+        "@lumeweb/tld-enum": "github:LumeWeb/list-of-top-level-domains",
+        "ethers": "^5.6.9"
+    }
+}
