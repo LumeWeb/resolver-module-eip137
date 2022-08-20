@@ -1,6 +1,6 @@
 import { Resolver } from "@lumeweb/resolver-module-eip137-common";
 import { ethers } from "ethers";
-import { DNSResult, ResolverOptions } from "@lumeweb/resolver-common";
+import { DNSResult, ResolverOptions } from "@lumeweb/libresolver";
 
 export default class Eip137 extends Resolver {
   getSupportedTlds(): string[] {
