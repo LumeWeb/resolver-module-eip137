@@ -13,7 +13,6 @@
         "@lumeweb/kernel-libresolver": "https://github.com/LumeWeb/kernel-libresolver.git",
         "@lumeweb/libresolver": "https://github.com/LumeWeb/libresolver.git",
         "@lumeweb/resolver-module-eip137-common": "https://github.com/LumeWeb/resolver-module-eip137-common.git",
-        "@lumeweb/tld-enum": "github:LumeWeb/list-of-top-level-domains",
         "ethers": "^5.6.9"
     },
     "devDependencies": {
